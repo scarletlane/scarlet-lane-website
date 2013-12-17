@@ -47,3 +47,19 @@
 // Utility classes
 @import "utilities";
 @import "responsive-utilities";
+
+body {
+	padding-top: 50px;
+}
+
+.carousel-inner {
+	.item {
+		img {
+			margin: 0 auto;
+		}
+	}
+}
+
+footer {
+	margin: 0 3px;
+}
